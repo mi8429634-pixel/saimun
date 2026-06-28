@@ -1,0 +1,6 @@
+{
+  "name": "MoviePremium",
+  "description": "A premium cinematic movie streaming and library management platform with adaptive playback, favorites, watch history, and administrative uploading controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
